@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">SatinderLab1</string>
+    <string name="myname" translatable="false">Satinder Kaur</string>
+    <string name="NEXT" translatable="false">Submit</string>
+</resources>
